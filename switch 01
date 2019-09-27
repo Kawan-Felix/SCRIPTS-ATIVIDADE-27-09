@@ -1,0 +1,5 @@
+enable
+configure terminal
+hostname SW-01
+banner motd "ACESSO RESTRITO"
+do wr
